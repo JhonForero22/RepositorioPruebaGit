@@ -25,7 +25,7 @@ cd nombre-repositorio
 python triki.py
 ```
 
-#Estructura del Código:
+# Estructura del Código:
 El código consta de las siguientes partes importantes:
 
 - initial_state(): Devuelve el estado inicial del tablero vacío.
@@ -38,19 +38,19 @@ El código consta de las siguientes partes importantes:
 - minimax(board): Implementación del algoritmo Minimax con Poda Alfa-Beta.
 - basic_minimax(board): Versión no optimizada del algoritmo Minimax.
 
-#Ejecución del Juego
+# Ejecución del Juego
 - El tablero se representa como una matriz 3x3, donde cada casilla puede estar vacía (None), ocupada por una 'X', o ocupada por una 'O'.
 - El jugador siempre juega con 'X', y la computadora toma decisiones usando Minimax con Poda Alfa-Beta.
 - El juego continúa hasta que haya un ganador o un empate.
 
-#Ejemplo de Tablero Inicial:
+# Ejemplo de Tablero Inicial:
 ```bash
 [[None, None, None],
  [None, None, None],
  [None, None, None]]
 ```
 
-#Decisión Óptima:
+# Decisión Óptima:
 El algoritmo Minimax evaluará todas las acciones posibles y retornará la mejor jugada para el jugador actual.
 
 # Contribuciones
