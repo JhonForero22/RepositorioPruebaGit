@@ -24,7 +24,7 @@ El desarrollo del proyecto se va a realizar en Python, integrando la librería P
 - ***tictactoe.py***: Contiene la implementa la lógica del juego Tic-Tac-Toe y los algoritmos de inteligencia artificial, incluyendo Minimax y la optimización con Poda Alfa-Beta. 
 
 # Requisitos
-- **1 -> Instalar Python: **
+- **1 -> Instalar Python:**
   Puedes instalar python desde [aqui](https://www.python.org/downloads/)
 - **2 -> Clonar el resositorio:**
 ```bash
