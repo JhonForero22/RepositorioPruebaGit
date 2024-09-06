@@ -60,3 +60,7 @@ Si deseas contribuir, por favor, sigue estos pasos:
 - Realiza tus cambios y haz commit (git commit -am 'Añadir nueva funcionalidad').
 - Sube la rama (git push origin feature-nueva-funcionalidad).
 - Abre un Pull Request.
+
+### Captura de Pantalla
+![image](https://github.com/user-attachments/assets/a0a609a2-a356-4a10-9b99-8ba06517052e)
+
