@@ -14,6 +14,7 @@ en Python y simula un jugador que toma decisiones óptimas para ganar el juego.
 
 # Requisitos
 - **1 -> Instalar Python**
+  Puedes instalar python desde [aqui](https://www.python.org/downloads/)
 - **2 -> Clonar el resositorio:**
 ```bash
 git clone https://github.com/tu-usuario/nombre-repositorio.git
@@ -62,5 +63,6 @@ Si deseas contribuir, por favor, sigue estos pasos:
 - Abre un Pull Request.
 
 ### Captura de Pantalla
-![image](https://github.com/user-attachments/assets/a0a609a2-a356-4a10-9b99-8ba06517052e)
-
+![Juego](https://github.com/user-attachments/assets/78d8da56-6e68-49f3-9871-836b3bf407da)
+![image](https://github.com/user-attachments/assets/892348f9-f373-4db6-80a5-87fac653fe86)
+![image](https://github.com/user-attachments/assets/f5dae8d3-d3ef-4bbb-9176-4a26ca4e7299)
